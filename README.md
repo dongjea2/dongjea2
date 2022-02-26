@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 동재
-- 👀 I’m interested in  Java , C++ , Linux, WEB BackEnd
-- 🌱 I’m currently learning  Spring framwork
+- 👀 I’m interested in  Java , Spring Boot, WEB BackEnd
+- 🌱 I’m currently learning  Spring Boot framwork
 
 - 📫 How to reach me ... dewawd@gmail.com
 
